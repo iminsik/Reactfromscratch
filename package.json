@@ -47,6 +47,7 @@
     "karma-phantomjs-launcher": "^1.0.0",
     "karma-sourcemap-loader": "^0.3.5",
     "karma-webpack": "^1.7.0",
+    "macaddress": "github:thebeastofcaerbannog/node-macaddress#43238cd0569573837d4b48a27b3063d287d2968b",
     "minimist": "^1.2.0",
     "mocha": "^3.0.0",
     "null-loader": "^0.1.1",
